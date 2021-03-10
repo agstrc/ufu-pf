@@ -1,0 +1,3 @@
+# Arquivos de ambiente/configuração que escondem dados do repositório público
+send.conf
+send.env
